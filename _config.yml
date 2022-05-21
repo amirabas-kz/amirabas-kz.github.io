@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad M. Ahmadpanah"
+title                    : "Amirabas Kabiri Zamani"
 title_separator          : "-"
-name                     : &name "Mohammad M. Ahmadpanah"
-description              : &description "The Personal Website of Mohammad M. Ahmadpanah | صفحه شخصی محمد احمدپناه"
+name                     : &name "Amirabas Kabiri Zamani"
+description              : &description "The Personal Website of Amirabas Kabiri Zamani | صفحه شخصی امیرعباس کبیری زمانی"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "smahmadpanah/smahmadpanah.github.io"
+repository               : "amirabas-kz/amirabas-kz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
