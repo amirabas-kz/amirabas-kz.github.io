@@ -56,13 +56,13 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+<!-- twitter:
   username               : &twitter "smahmadpanah"
 facebook:
   username               : smahmadpanah
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  # Open Graph/Twitter default site image -->
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad M. Ahmadpanah"
+  name             : "Amirabas Kabiri Zamani"
   avatar           : "profile.png"
-  bio              : "PhD Student in Information&nbsp;Security<br><a href='https://www.chalmers.se/en'><img src='/images/chalmers.png'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
+  bio              : "MSc. Graduated &nbsp;Security<br><a href='https://www.chalmers.se/en'><img src='/images/chalmers.png'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
   location         : "https://goo.gl/maps/ZxJrHZxG96hMjhjS8"
   #employer        : "chalmers"
   #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
