@@ -67,10 +67,10 @@ function toggle_visibility(id) {
 
 ### Instructor, Online Academies:
 <ul class='twocol' markdown='1'>
-<li> Advanced Programming (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Operating Systems Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Computer Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Discrete Mathematics</li>
+<li> Computer Networks Penetration Testing and Related Tools </li>
+<li> Web Penetration Testing and Related Tools </li>
+<li> Hacking Tools and Topics </li>
+
 
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
