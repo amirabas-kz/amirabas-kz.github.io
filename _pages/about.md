@@ -61,8 +61,8 @@ function toggle_visibility(id) {
 
 ### Teaching Assistant, Qom University of Technology:
 <ul class='twocol' markdown='1'>
-<li>Operating Systems (<i style='font-size: 0.8em;'>undergraduate</i>)</li>
-<li>Computer Networks (<i style='font-size: 0.8em;'>undergraduate</i>)</li>
+<li>Operating Systems (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
+<li>Computer Networks (<i style='font-size: 0.8em;'>Undergraduate</i>)</li>
 </ul>
 
 ### Instructor, Online Academies:
