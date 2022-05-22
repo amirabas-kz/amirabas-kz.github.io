@@ -70,7 +70,7 @@ function toggle_visibility(id) {
 <li> Computer Networks Penetration Testing and Related Tools </li>
 <li> Web Penetration Testing and Related Tools </li>
 <li> Hacking Tools and Topics </li>
-
+</ul>
 
 
 <a href="/honors" class='header-color'>Honors and Activities</a>
