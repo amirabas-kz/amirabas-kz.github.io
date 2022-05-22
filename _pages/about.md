@@ -22,14 +22,15 @@ I love a wide range of topics in cybersecurity and have experience over them, bu
     <li> Benefiting AI in cybersecurity (e.g., Detection Systems, Malware Analysis and so on)</li>
     <li> Operating Systems Security</li>
     <li> Vulnerability Analysis/Detection</li>
-    <li> AI and related IoT Security</li>
+    <li> AI Security</li>
+    <li> IoT Security</li>
     <li> Network Security and Threat Detection</li>
     <li> Software Testing</li>
     </ul>
 
 <p id="fullname" style="display: none;"><sup>#
 my full name is <i>Amirabas Kabiri Zamani</i> (in Persian: <span class='farsi'>امیرعباس کبیری زمانی</span>), and here is my voice pronouncing my name:  
-<span><audio id="player" src="files/my-name.wav"></audio>
+<span><audio id="player" src="files/my-name.ogg"></audio>
 <img src="/images/speaker.png" style="width:20px; cursor:pointer;" onclick="document.getElementById('player').play()"></span></sup></p>
 
 <script>
@@ -44,35 +45,23 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **Securing Software in the Presence of Third-Party Modules**, *Licentiate thesis*, 2021 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
-<br>Supervisor: Andrei Sabelfeld
-0. **Securing Node-RED Applications**, *Protocols, Strands, and Logic: Festschrift in honor of Joshua Guttman'21* [[pdf](/papers/joshua21.pdf)]
-<br><i>Mohammad M. Ahmadpanah</i>, Musard Balliu, Daniel Hedin, Lars Eric Olsson, and Andrei Sabelfeld
-0. **Nontransitive Policies Transpiled**, *EuroS&P'21* [[pdf](/papers/eurosp21.pdf)]
-<br><i>Mohammad M. Ahmadpanah</i>, Aslan Askarov, and Andrei Sabelfeld
-0. **SandTrap: Securing JavaScript-driven Trigger-Action Platforms**, *USENIX Security'21* [[pdf](/papers/usenix21.pdf)]
-<br><i>Mohammad M. Ahmadpanah</i>, Daniel Hedin, Musard Balliu, Lars Eric Olsson, and Andrei Sabelfeld
-0. **Improving Multi-Execution-based Mechanisms for Enforcing Information Flow Policies**, *Master's thesis*, 2017 [[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Thesis/Thesis.pdf)]
-<br>Supervisor: Mehran S. Fallah
-0. **Dynamic Enforcement of Security Hyperproperties: A Survey**, *Technical report*, 2016
-[[pdf](https://github.com/smahmadpanah/MScDocuments/blob/master/Seminar/Dynamic%20Enforcement%20of%20Security%20Hyperproperties-SeminarReport.pdf)]
-<br>Supervisor: Mehran S. Fallah
-0. **A Tool for Rewriting-Based Enforcement of Noninterference in While Programs**, *Bachelor's thesis*, 2015 [[pdf](https://github.com/smahmadpanah/BScProject/blob/master/Final%20Documents/Thesis.pdf)]
+0. **Directed Fuzzing based on Vulnerability Detection**, *Licentiate thesis*, 2021 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
 <br>Supervisor: Mehran S. Fallah
 {: reversed="reversed"}
 
 
-
 <a href="/teaching"  class='header-color'>Teaching</a>
 ----
-### Chalmers:
+### Teaching Assistant, Amirkabir University of Technology:
 <ul class='twocol' markdown='1'>
-<li>Language-Based Security (<i style='font-size: 0.8em;'>Graduate</i>)</li>
-<li>Finite Automata and Formal Languages</li>
-<li>Programming Language Technology (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+<li>Program Analysis (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+<li>Formal Methods for Information Security (<i style='font-size: 0.8em;'>Graduate</i>)</li>
+<li>Analysis & Design of Algorithms	(<i style='font-size: 0.8em;'>Graduate</i>)</li>
+<li>Operating Systems (<i style='font-size: 0.8em;'>undergraduate</i>)</li>
+<li>Computer Networks (<i style='font-size: 0.8em;'>undergraduate</i>)</li>
 </ul>
 
-### Tehran Polytechnic: 
+### Teaching Assistant, Qom University of Technology:
 <ul class='twocol' markdown='1'>
 <li> Advanced Programming (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
 <li> Operating Systems Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
@@ -86,6 +75,13 @@ function toggle_visibility(id) {
 <li> Software Engineering I</li>
 <li> Computer Architecture</li>
 </ul>
+
+### Instructor, Online Academies:
+<ul class='twocol' markdown='1'>
+<li> Advanced Programming (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
+<li> Operating Systems Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
+<li> Computer Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
+<li> Discrete Mathematics</li>
 
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
