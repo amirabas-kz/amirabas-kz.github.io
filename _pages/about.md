@@ -57,23 +57,12 @@ function toggle_visibility(id) {
 <li>Program Analysis (<i style='font-size: 0.8em;'>Graduate</i>)</li>
 <li>Formal Methods for Information Security (<i style='font-size: 0.8em;'>Graduate</i>)</li>
 <li>Analysis & Design of Algorithms	(<i style='font-size: 0.8em;'>Graduate</i>)</li>
-<li>Operating Systems (<i style='font-size: 0.8em;'>undergraduate</i>)</li>
-<li>Computer Networks (<i style='font-size: 0.8em;'>undergraduate</i>)</li>
 </ul>
 
 ### Teaching Assistant, Qom University of Technology:
 <ul class='twocol' markdown='1'>
-<li> Advanced Programming (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Operating Systems Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Computer Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Discrete Mathematics</li>
-<li> Design of Programming Languages</li>
-<li> Data Structures</li>
-<li> Principles of Compiler Design</li>
-<li> Computer Networks II</li>
-<li> Information Storage and Retrieval</li>
-<li> Software Engineering I</li>
-<li> Computer Architecture</li>
+<li>Operating Systems (<i style='font-size: 0.8em;'>undergraduate</i>)</li>
+<li>Computer Networks (<i style='font-size: 0.8em;'>undergraduate</i>)</li>
 </ul>
 
 ### Instructor, Online Academies:
