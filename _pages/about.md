@@ -27,16 +27,6 @@ I love a wide range of topics in cybersecurity and have experience over them, bu
     <li> Software Testing</li>
     </ul>
 
-**Hi!** This is Amirabas<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a PhD student in [Information&nbsp;Security](https://www.chalmers.se/en/departments/cse/organisation/is/Pages/Staff.aspx) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) 
-and [Daniel&nbsp;Hedin](https://www.chalmers.se/en/staff/Pages/utter.aspx) at [Chalmers](https://www.chalmers.se/en) in Sweden, started in September 2019.
-Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity). Since then, I have been pursuing my passion for:
-<ul class='twocol' style="margin-top: -1%;" markdown='1'>
-<li> Thread/Intrusion Detection Systems</li>
-<li> Formal Methods for Information Security</li>
-<li> Information-Flow Security</li>
-<li> Programming Languages</li>
-</ul>
-
 <p id="fullname" style="display: none;"><sup>#
 my full name is <i>Amirabas Kabiri Zamani</i> (in Persian: <span class='farsi'>امیرعباس کبیری زمانی</span>), and here is my voice pronouncing my name:  
 <span><audio id="player" src="files/my-name.wav"></audio>
