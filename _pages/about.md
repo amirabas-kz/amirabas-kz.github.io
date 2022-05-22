@@ -18,7 +18,6 @@ redirect_from:
 My thesis title was "Directed Fuzzing based on Vulnerability Specification" and I defensed it at February ,2022 under judgment of [Dr. Ahmad Abdollahzadeh Barforoush](https://scholar.google.com/citations?user=I_uJBz4AAAAJ&hl=en) and [Dr. Mahdi Abadi](https://scholar.google.com/citations?user=Kx4YXogAAAAJ&hl=en).
 I love a wide range of topics in cybersecurity and have experience over them, but, I'm focused on below topics specifically:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
-    <li> Thread/Intrusion Detection Systems</li>
     <li> Benefiting AI in cybersecurity (e.g., Detection Systems, Malware Analysis and so on)</li>
     <li> Operating Systems Security</li>
     <li> Vulnerability Analysis/Detection</li>
