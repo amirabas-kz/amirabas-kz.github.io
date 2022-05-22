@@ -14,11 +14,24 @@ redirect_from:
 .twocol{ columns: 2}
 </style>
 
+**Hi!** This is Amirabas<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a graduate in master of computer science and an extreme enthusiast of cybersecurity. I cought my MSc under supervision of [Dr. Mehran S. Fallah](https://aut.ac.ir/cv/2366/MEHRANS.-FALLAH?slc_lang=en&&cv=2366&mod=scv) at [Amirkabir University of Technology (AUT)](https://aut.ac.ir/en) in Iran.
+My thesis title was "Directed Fuzzing based on Vulnerability Specification" and I defensed it at February ,2022 under judgment of [Dr. Ahmad Abdollahzadeh Barforoush](https://scholar.google.com/citations?user=I_uJBz4AAAAJ&hl=en) and [Dr. Mahdi Abadi](https://scholar.google.com/citations?user=Kx4YXogAAAAJ&hl=en).
+I love a wide range of topics in cybersecurity and have experience over them, but, I'm focused on below topics specifically:
+<ul class='twocol' style="margin-top: -1%;" markdown='1'>
+    <li> Thread/Intrusion Detection Systems</li>
+    <li> Benefiting AI in cybersecurity (e.g., Detection Systems, Malware Analysis and so on)</li>
+    <li> Operating Systems Security</li>
+    <li> Vulnerability Analysis/Detection</li>
+    <li> AI and related IoT Security</li>
+    <li> Network Security and Threat Detection</li>
+    <li> Software Testing</li>
+    </ul>
+
 **Hi!** This is Amirabas<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a PhD student in [Information&nbsp;Security](https://www.chalmers.se/en/departments/cse/organisation/is/Pages/Staff.aspx) under the supervision of [Andrei&nbsp;Sabelfeld](https://www.cse.chalmers.se/~andrei/) 
 and [Daniel&nbsp;Hedin](https://www.chalmers.se/en/staff/Pages/utter.aspx) at [Chalmers](https://www.chalmers.se/en) in Sweden, started in September 2019.
 Prior to that, I lived at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 8 years (BSc in Software Engineering, MSc in Information Security, and PhD candidate in Software Engineering), supervised by [Mehran&nbsp;S.&nbsp;Fallah](https://ce.aut.ac.ir/formalsecurity). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
-<li> Language-Based Security</li>
+<li> Thread/Intrusion Detection Systems</li>
 <li> Formal Methods for Information Security</li>
 <li> Information-Flow Security</li>
 <li> Programming Languages</li>
