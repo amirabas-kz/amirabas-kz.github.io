@@ -50,7 +50,7 @@ function toggle_visibility(id) {
 {: reversed="reversed"}
 
 
-<a href="/teaching"  class='header-color'>Teaching</a>
+<a href="/teaching"  class='header-color'>Teaching Experiences</a>
 ----
 ### Teaching Assistant, Amirkabir University of Technology:
 <ul class='twocol' markdown='1'>
