@@ -22,9 +22,9 @@ I love a wide range of topics in cybersecurity and have experience over them, bu
     <li> Benefiting AI in cybersecurity (e.g., Detection Systems, Malware Analysis and so on)</li>
     <li> Operating Systems Security</li>
     <li> Vulnerability Analysis/Detection</li>
+    <li> Network Security and Threat Detection</li>
     <li> AI Security</li>
     <li> IoT Security</li>
-    <li> Network Security and Threat Detection</li>
     <li> Software Testing</li>
     </ul>
 
