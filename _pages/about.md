@@ -18,9 +18,7 @@ redirect_from:
  an extreme enthusiast of cybersecurity who graduated in master of computer science.
  I passed my MSc under supervision of [Dr. Mehran S. Fallah](https://aut.ac.ir/cv/2366/MEHRANS.-FALLAH?slc_lang=en&&cv=2366&mod=scv) at 
  [Amirkabir University of Technology (AUT)](https://aut.ac.ir/en) in Iran.
-My thesis title was "Directed Fuzzing based on Vulnerability Specification" and I defensed it at February ,2022 
-under judgment of [Dr. Ahmad Abdollahzadeh Barforoush](https://scholar.google.com/citations?user=I_uJBz4AAAAJ&hl=en)
- and [Dr. Mahdi Abadi](https://scholar.google.com/citations?user=Kx4YXogAAAAJ&hl=en).
+My thesis title was "Directed Fuzzing based on Vulnerability Specification". 
 I'm interested in wide range of topics in cybersecurity and have experience over them, but, 
 I'm focused on below topics specifically:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
@@ -78,24 +76,10 @@ function toggle_visibility(id) {
 </ul>
 
 
-<a href="/honors" class='header-color'>Honors and Activities</a>
+<a href="/honors" class='header-color'>Honors and Awards</a>
 ----
-- External Reviewer of the conference flagships <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>
-- Recipient of the Adlerbert Foreign Student Hospitality Foundation scholarship, 2021 and 2022
-- Fellow of Student Activities committee (2022-2025) and Member of <a href="https://www.isee.ir/en">The Iranian Society of Engineering Education</a>, since 2020
-- Member of <a href="https://www.cse.chalmers.se/research/group/security/websec/">WebSec Project</a> and <a href="https://www.cse.chalmers.se/research/group/security/people/">Chalmers Security Lab</a>, Chalmers, since September 2019
-- The 2nd place among PhD students of the department, Tehran Polytechnic, 2018 and 2019
-- The Best Teaching Assistant and Lab Instructor of the department, Tehran Polytechnic, 2016, 2017 and 2019
-- Scientific Talent by the National Elite Foundation of Iran, 2018
-- Top 3% among Course Responsibles, Tehran Polytechnic, Spring 2018
-- The 1st place among Master's students in Information Security, 2016 and 2017
-- Recipient of the Outstanding Graduate Student Scholarship, Tehran Polytechnic, 2016
-- Direct Admission for Master and PhD studies, Tehran Polytechnic, 2015 and 2017
-- The Youngest Course Responsible (at age 22), Lab Instructor (at age 20) and
-Teaching Assistant (at age 16), Tehran Polytechnic 
-- Member of <a href="http://ceit.aut.ac.ir/formalsecurity/people.html">Formal Security Lab</a>, Tehran Polytechnic, 2015 - 2019
-- Member of the university team for the National Scientific Olympiad in Computer Engineering, Tehran Polytechnic, 2014
-- Skipped Three grades of Elementary School as an Exceptional Talent, 2002
-
-
-
+- Ranked 29th in Iranian universities nationwide entrance exam for PHD studies
+- Ranked 14th in Iranian universities nationwide entrance exam for master studies
+- 4-th Place in Khwarizmi Festival
+- 10-th Festival of Innovation and Prosperity Award
+- First Festival of Iranian Inventors and Innovators Award
