@@ -14,14 +14,6 @@ redirect_from:
 .twocol{ columns: 2}
 </style>
 
-Hi! This is Amirabas#, an extreme enthusiast of cybersecurity who graduated in master of computer science. 
-I passed my MSc under supervision of Dr. Mehran S. Fallah at Amirkabir University of Technology (AUT) in Iran. 
-My thesis title was “Directed Fuzzing based on Vulnerability Specification” and 
-I defensed it at February ,2022 under judgment of Dr. Ahmad Abdollahzadeh Barforoush and Dr. Mahdi Abadi. 
-I love a wide range of topics in cybersecurity and have experience over them, but, 
-I’m focused on below topics specifically:
-
-
 **Hi!** This is Amirabas<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, 
  an extreme enthusiast of cybersecurity who graduated in master of computer science.
  I passed my MSc under supervision of [Dr. Mehran S. Fallah](https://aut.ac.ir/cv/2366/MEHRANS.-FALLAH?slc_lang=en&&cv=2366&mod=scv) at 
