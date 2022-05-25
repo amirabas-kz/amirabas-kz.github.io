@@ -75,6 +75,21 @@ function toggle_visibility(id) {
 <li> Hacking Tools and Topics </li>
 </ul>
 
+<a href="/education" class='header-color'>Education</a>
+----
+### Master's degree in Computer Software Engineering, Amirkabir University of Technology (<i style='font-size: 0.8em;'>2018 - 2022</i>):
+<ul class='twocol' markdown='1'>
+<li>Field of Study: Software Security and Vulnerability Detection</li>
+<li>Thesis title: Directed Fuzzing based on Vulnerability Specification</li>
+<li>Supervisor: Mehran S. Fallah</li>
+</ul>
+
+### Bachelor's degree in Computer Software Engineering, Qom University of Technology (<i style='font-size: 0.8em;'>2014 - 2018</i>):
+<ul class='twocol' markdown='1'>
+  <li>B.Sc. Final Project Title: Design and Implementation of a Cloud Service based on OpenStack Infrastructure</li>
+  <li>Supervisor: Abdolreza Rasouli Kenari</li>
+  </ul>
+
 
 <a href="/honors" class='header-color'>Honors and Awards</a>
 ----
@@ -83,3 +98,46 @@ function toggle_visibility(id) {
 - 4-th Place in Khwarizmi Festival
 - 10-th Festival of Innovation and Prosperity Award
 - First Festival of Iranian Inventors and Innovators Award
+
+<a href="/experiences" class='header-color'>Work Experiences</a>
+----
+### Software Engineer, BehSoftCO (<i style='font-size: 0.8em;'>2022 - Present</i>):
+<ul class='twocol' markdown='1'>
+<li>Research and development over IoT and embedded systems</li>
+<li>Design and implementation of daemon processes</li>
+<li>Design and implementation of software modules and controllers</li>
+<li>Security hardening of modules</li>
+<li>Low-level development on Linux and embedded systems</li>
+</ul>
+
+### Co-Founder, Thregence Academy (<i style='font-size: 0.8em;'>Mar 2020 - Nov 2021</i>):
+<ul class='twocol' markdown='1'>
+<li>Web Penetration Testing</li>
+<li>Network Penetration Testing</li>
+<li>Hacking Tools and Techniques</li>
+<li>Computer Networks</li>
+<li>Information Technology</li>
+</ul>
+
+### Network & Security Engineer, Telecommunication Company of Iran - TCI (<i style='font-size: 0.8em;'>Apr 2020 - Aug 2020</i>):
+<ul class='twocol' markdown='1'>
+<li>Configuration of network devices</li>
+<li>Configuration of virtualization infrastructures</li>
+<li>Development of security tools</li>
+<li>Reverse engineering</li>
+<li>Fundamental digital forensics</li>
+</ul>
+
+### Monitoring & NOC Engineer, XICOMM (<i style='font-size: 0.8em;'>Jan 2019 - Mar 2020</i>):
+<ul class='twocol' markdown='1'>
+<li>Network Monitoring</li>
+<li>VoIP routers monitoring</li>
+<li>VoIP route testing</li>
+</ul>
+
+### Computer Network Intern, Telecommunication Infrastructure Company (<i style='font-size: 0.8em;'>Jun 2016 - Sep 2016</i>):
+<ul class='twocol' markdown='1'>
+<li>Fully practical internship in field of computer networks and security</li>
+<li>Under supervision of highly skilled network specialists</li>
+<li>Design and implementation of computer network plans</li>
+</ul>
