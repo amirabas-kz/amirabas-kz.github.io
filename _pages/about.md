@@ -14,9 +14,23 @@ redirect_from:
 .twocol{ columns: 2}
 </style>
 
-**Hi!** This is Amirabas<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a graduate in master of computer science and an extreme enthusiast of cybersecurity. I cought my MSc under supervision of [Dr. Mehran S. Fallah](https://aut.ac.ir/cv/2366/MEHRANS.-FALLAH?slc_lang=en&&cv=2366&mod=scv) at [Amirkabir University of Technology (AUT)](https://aut.ac.ir/en) in Iran.
-My thesis title was "Directed Fuzzing based on Vulnerability Specification" and I defensed it at February ,2022 under judgment of [Dr. Ahmad Abdollahzadeh Barforoush](https://scholar.google.com/citations?user=I_uJBz4AAAAJ&hl=en) and [Dr. Mahdi Abadi](https://scholar.google.com/citations?user=Kx4YXogAAAAJ&hl=en).
-I love a wide range of topics in cybersecurity and have experience over them, but, I'm focused on below topics specifically:
+Hi! This is Amirabas#, an extreme enthusiast of cybersecurity who graduated in master of computer science. 
+I passed my MSc under supervision of Dr. Mehran S. Fallah at Amirkabir University of Technology (AUT) in Iran. 
+My thesis title was “Directed Fuzzing based on Vulnerability Specification” and 
+I defensed it at February ,2022 under judgment of Dr. Ahmad Abdollahzadeh Barforoush and Dr. Mahdi Abadi. 
+I love a wide range of topics in cybersecurity and have experience over them, but, 
+I’m focused on below topics specifically:
+
+
+**Hi!** This is Amirabas<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, 
+ an extreme enthusiast of cybersecurity who graduated in master of computer science.
+ I passed my MSc under supervision of [Dr. Mehran S. Fallah](https://aut.ac.ir/cv/2366/MEHRANS.-FALLAH?slc_lang=en&&cv=2366&mod=scv) at 
+ [Amirkabir University of Technology (AUT)](https://aut.ac.ir/en) in Iran.
+My thesis title was "Directed Fuzzing based on Vulnerability Specification" and I defensed it at February ,2022 
+under judgment of [Dr. Ahmad Abdollahzadeh Barforoush](https://scholar.google.com/citations?user=I_uJBz4AAAAJ&hl=en)
+ and [Dr. Mahdi Abadi](https://scholar.google.com/citations?user=Kx4YXogAAAAJ&hl=en).
+I'm interested in wide range of topics in cybersecurity and have experience over them, but, 
+I'm focused on below topics specifically:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
     <li> Benefiting AI in Cybersecurity (e.g., Detection Systems, Malware Analysis and so on)</li>
     <li> Operating Systems Security</li>
