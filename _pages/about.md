@@ -78,14 +78,14 @@ function toggle_visibility(id) {
 <a href="/education" class='header-color'>Education</a>
 ----
 ### Master's degree in Computer Software Engineering, Amirkabir University of Technology (<i style='font-size: 0.8em;'>2018 - 2022</i>):
-<ul class='twocol' markdown='1'>
+<ul markdown='1'>
 <li>Field of Study: Software Security and Vulnerability Detection</li>
 <li>Thesis title: Directed Fuzzing based on Vulnerability Specification</li>
 <li>Supervisor: Mehran S. Fallah</li>
 </ul>
 
 ### Bachelor's degree in Computer Software Engineering, Qom University of Technology (<i style='font-size: 0.8em;'>2014 - 2018</i>):
-<ul class='twocol' markdown='1'>
+<ul markdown='1'>
   <li>B.Sc. Final Project Title: Design and Implementation of a Cloud Service based on OpenStack Infrastructure</li>
   <li>Supervisor: Abdolreza Rasouli Kenari</li>
   </ul>
