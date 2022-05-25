@@ -102,7 +102,7 @@ function toggle_visibility(id) {
 <a href="/experiences" class='header-color'>Work Experiences</a>
 ----
 ### Software Engineer, BehSoftCO (<i style='font-size: 0.8em;'>2022 - Present</i>):
-<ul class='twocol' markdown='1'>
+<ul markdown='1'>
 <li>Research and development over IoT and embedded systems</li>
 <li>Design and implementation of daemon processes</li>
 <li>Design and implementation of software modules and controllers</li>
@@ -111,7 +111,7 @@ function toggle_visibility(id) {
 </ul>
 
 ### Co-Founder, Thregence Academy (<i style='font-size: 0.8em;'>Mar 2020 - Nov 2021</i>):
-<ul class='twocol' markdown='1'>
+<ul markdown='1'>
 <li>Web Penetration Testing</li>
 <li>Network Penetration Testing</li>
 <li>Hacking Tools and Techniques</li>
@@ -120,7 +120,7 @@ function toggle_visibility(id) {
 </ul>
 
 ### Network & Security Engineer, Telecommunication Company of Iran - TCI (<i style='font-size: 0.8em;'>Apr 2020 - Aug 2020</i>):
-<ul class='twocol' markdown='1'>
+<ul markdown='1'>
 <li>Configuration of network devices</li>
 <li>Configuration of virtualization infrastructures</li>
 <li>Development of security tools</li>
@@ -129,14 +129,14 @@ function toggle_visibility(id) {
 </ul>
 
 ### Monitoring & NOC Engineer, XICOMM (<i style='font-size: 0.8em;'>Jan 2019 - Mar 2020</i>):
-<ul class='twocol' markdown='1'>
+<ul markdown='1'>
 <li>Network Monitoring</li>
 <li>VoIP routers monitoring</li>
 <li>VoIP route testing</li>
 </ul>
 
 ### Computer Network Intern, Telecommunication Infrastructure Company (<i style='font-size: 0.8em;'>Jun 2016 - Sep 2016</i>):
-<ul class='twocol' markdown='1'>
+<ul markdown='1'>
 <li>Fully practical internship in field of computer networks and security</li>
 <li>Under supervision of highly skilled network specialists</li>
 <li>Design and implementation of computer network plans</li>
