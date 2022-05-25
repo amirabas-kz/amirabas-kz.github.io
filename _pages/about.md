@@ -93,8 +93,8 @@ function toggle_visibility(id) {
 
 <a href="/honors" class='header-color'>Honors and Awards</a>
 ----
-- Ranked 29th in Iranian universities nationwide entrance exam for PHD studies
-- Ranked 14th in Iranian universities nationwide entrance exam for master studies
+- Ranked 29th in Iranian universities nationwide entrance exam for PHD studies - 2021
+- Ranked 14th in Iranian universities nationwide entrance exam for master studies - 2018
 - 4-th Place in Khwarizmi Festival
 - 10-th Festival of Innovation and Prosperity Award
 - First Festival of Iranian Inventors and Innovators Award
