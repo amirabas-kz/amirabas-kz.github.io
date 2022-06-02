@@ -9,7 +9,7 @@ author_profile: true
 .farsi{ font-family:PERSWEB; font-weight: bold; font-size:11pt;}
 </style>
 
-**<ins>Note</ins>**: all the booklets are in Persian!
+**<ins>Slides of my presentations</ins>**
 
 - PSMPA: Patient Self-controllable and Multi-level Privacy-Preserving Cooperative Authentication in Distributed m-Healthcare [[pdf](https://github.com/amirabas-kz/amirabas-kz.github.io/raw/master/files/CC_Presentation_KabiriZamani_97131100.pdf)]
 <br>Course: Cloud Computing, *Spring 2021*
