@@ -94,10 +94,25 @@ function toggle_visibility(id) {
 <a href="/honors" class='header-color'>Honors and Awards</a>
 ----
 - Ranked 29th in Iranian universities nationwide entrance exam for PHD studies - 2021
+- Full scholarship (tuition waiver) of M.Sc. at Amirkabir University of Technology (AUT) - 2018
+- Permission to study Masters without an entrance exam at Qom University of Technology (QUT) - 2018
 - Ranked 14th in Iranian universities nationwide entrance exam for master studies - 2018
-- 4-th Place in Khwarizmi Festival
+- Full scholarship (tuition waiver) of B.Sc. at Qom University of Technology (QUT) - 2014
+- Among top 4% in Iranian universities nationwide entrance exam for bachelor studies
+- 4-th Place in Khwarizmi Festival - 2012
 - 10-th Festival of Innovation and Prosperity Award
 - First Festival of Iranian Inventors and Innovators Award
+
+
+<a href="/patents" class='header-color'>Patents</a>
+----
+0. **Soil Status Monitoring System (Temperature, Humidity, PH, Light and Water)**, 2010 (<i style='font-size: 0.8em;'>IR 388090317</i>)
+<br>A soil monitoring system which included into an IoT infrastructure for agriculture purposes which helps monitoring soil status
+{: reversed="reversed"}
+1. **CO2 Gas Leakage Detection System for Gas-powered Systems**, 2009 (<i style='font-size: 0.8em;'>IR 387101072</i>)
+<br>A detection system that works as an IoT element in a smart house which detects leakage of harmful gases from gas-powered machines
+{: reversed="reversed"}
+
 
 <a href="/experiences" class='header-color'>Work Experiences</a>
 ----
