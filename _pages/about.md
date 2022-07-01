@@ -110,7 +110,7 @@ function toggle_visibility(id) {
 <a href="/patents" class='header-color'>Patents</a>
 ----
 0. **Soil Status Monitoring System (Temperature, Humidity, PH, Light and Water)**, 2010 (<i style='font-size: 0.8em;'>IR 388090317</i>)
-<br>A soil monitoring system which included into an IoT infrastructure for agriculture purposes which helps monitoring soil status
+<br>A soil monitoring system which included into an IoT infrastructure for agriculture purposes and helps monitoring soil status
 {: reversed="reversed"}
 1. **CO2 Gas Leakage Detection System for Gas-powered Systems**, 2009 (<i style='font-size: 0.8em;'>IR 387101072</i>)
 <br>A detection system that works as an IoT element in a smart house which detects leakage of harmful gases from gas-powered machines
