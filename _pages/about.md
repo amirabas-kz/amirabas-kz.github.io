@@ -48,7 +48,10 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **Directed Fuzzing based on Vulnerability Detection**, *Licentiate thesis*, 2021 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
+0. **BotNet Intrusion Detection System in Internet of Things**, *Will be submitted to ACM CCS 23*, 2023 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
+{: reversed="reversed"}
+
+1. **Directed Fuzzing based on Vulnerability Specification**, *Will be submitted to ACM CCS 23*, 2023 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
 <br>Supervisor: Mehran S. Fallah
 {: reversed="reversed"}
 
