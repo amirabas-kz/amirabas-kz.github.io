@@ -46,7 +46,7 @@ function toggle_visibility(id) {
     }
 </script>
 
-<a href="/publications" class='header-color'>Publications</a>
+<a id="publications" class='header-color'>Publications</a>
 ----
 0. **BotNet Intrusion Detection System in Internet of Things**, *Will be submitted to ACM CCS 23*, 2023 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
 {: reversed="reversed"}
