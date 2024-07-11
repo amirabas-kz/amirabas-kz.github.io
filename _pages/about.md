@@ -14,21 +14,22 @@ redirect_from:
 .twocol{ columns: 2}
 </style>
 
-**Hi!** This is Amirabas<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, 
- an extreme enthusiast of cybersecurity who graduated in master of computer science.
- I passed my MSc under supervision of [Dr. Mehran S. Fallah](https://aut.ac.ir/cv/2366/MEHRANS.-FALLAH?slc_lang=en&&cv=2366&mod=scv) at 
- [Amirkabir University of Technology (AUT)](https://aut.ac.ir/en) in Iran.
-My thesis title was "Directed Fuzzing based on Vulnerability Specification". 
-I'm interested in wide range of topics in cybersecurity and have experience over them, but, 
-I'm focused on below topics specifically:
+**Hi!** This is Amir<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, 
+I hold a Master's degree in Software Engineering from the Amirkabir University of Technology, a top university in Iran. 
+With over five years of work experience in major Iranian and American companies, I have developed a robust software and 
+security background. My research and professional experience have equipped me with proficiency in research methodologies 
+and tools in the software field. I am particularly interested in cybersecurity, especially in specialized areas such as 
+binary analysis, reverse engineering, and software testing. I am also keenly interested in artificial intelligence, 
+machine learning, and deep learning. I am seeking a PhD position that aligns with my expertise and interests in these 
+areas. I am proficient in English, including reading, writing, and speaking. I’m focused on below topics specifically:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
-    <li> Benefiting AI in Cybersecurity (e.g., Detection Systems, Malware Analysis and so on)</li>
-    <li> Operating Systems Security</li>
-    <li> Vulnerability Analysis/Detection</li>
-    <li> Network Security and Threat Detection</li>
-    <li> AI Security</li>
-    <li> IoT Security</li>
+    <li> Software Security</li>
     <li> Software Testing</li>
+    <li> Binary Analysis</li>
+    <li> Reverse Engineering</li>
+    <li> Machine Learning</li>
+    <li> IoT and Embedded Systems</li>
+    <li> Deep Learning</li>
     </ul>
 
 <p id="fullname" style="display: none;"><sup>#
@@ -48,7 +49,7 @@ function toggle_visibility(id) {
 
 <a id="publications" class='header-color'>Publications</a>
 ----
-0. **BotNet Intrusion Detection System in Internet of Things**, *Will be submitted to ACM CCS 23*, 2023 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
+0. 1.	Kabiri, A. Chapnevis, " **BotNet Intrusion Detection System in Internet of Things with Developed Deep Learning **," The 22nd International Conference on Information Technology, Computer and Telecommunication (ITCTCONF), 2022 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
 {: reversed="reversed"}
 
 1. **Directed Fuzzing based on Vulnerability Specification**, *Will be submitted to ACM CCS 23*, 2023 [[pdf](papers/licentiate.pdf)] [[video](https://youtu.be/0Mdj-sNxqXU)]
