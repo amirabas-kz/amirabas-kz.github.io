@@ -9,5 +9,5 @@ Last update: June 2024
 - CV [[pdf](/files/Kabiri-CV.pdf)]
 
 ### Transcripts
-- MSc [[pdf](/files/M.Sc.Transcript-en.pdf)]
+- MSc [[pdf](/files/kabiri.pdf)]
 - BSc [[pdf](/files/B.Sc.Transcript-en.pdf)]
