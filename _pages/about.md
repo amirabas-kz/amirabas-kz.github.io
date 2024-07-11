@@ -120,41 +120,96 @@ function toggle_visibility(id) {
 
 <a href="/experiences" class='header-color'>Work Experiences</a>
 ----
-### Software Engineer, BehSoftCO (<i style='font-size: 0.8em;'>2022 - Present</i>):
+### IT Team Lead, BAWAY LLC. (<i style='font-size: 0.8em;'>May 2024 - Present</i>):
+<ul markdown='1'>
+<li>CpaaS Project Management</li>
+<li>IT team leadership</li>
+<li>Support team leadership - VoIP/SMS</li>
+<li>Infrastructure maintenance</li>
+</ul>
+
+### Software Engineer, XICOMM LLC. (<i style='font-size: 0.8em;'>Oct 2022 - Apr 2024</i>):
+<ul markdown='1'>
+<li>Research, Design, and Development of VoIP Softswitch </li>
+<li>Requirement extraction of a VoIP business</li>
+<li>C/C++ Programming</li>
+<li>Kamailio SIP Server</li>
+<li>API Interaction with Message Brokers, Databases, etc.</li>
+<li>Infrastructure maintenance: VMs, Containers, Message Brokers, Databases, etc.</li>
+</ul>
+
+### Software Engineer, BitBaan Lab. (<i style='font-size: 0.8em;'>Apr 2022 - Apr 2024</i>):
+<ul markdown='1'>
+<li>Researching on various paradigms of software design and analysis</li>
+<li>Examining operating systems architecture and design paradigm</li>
+<li>Designing the large-scale architecture of an Antimalware software</li>
+<li>Engineering the fine-grained architecture of software modules</li>
+<li>Composing a unified model of software design visualization</li>
+<li>Coaching apprentices to improve their software engineering knowledge and programming skills</li>
+<li>Researched various techniques (Signature-based, Rule-based, Behavior-based, and Heuristic-based)</li>
+<li>Examined techniques and tactics of trending malware</li>
+<li>Researched APT (Advanced Persistent Threats) and their potential mitigation</li>
+</ul>
+
+### Software Engineer, BehSoftCO (<i style='font-size: 0.8em;'>Jan 2022 - Apr 2022</i>):
 <ul markdown='1'>
 <li>Research and development over IoT and embedded systems</li>
 <li>Design and implementation of daemon processes</li>
 <li>Design and implementation of software modules and controllers</li>
 <li>Security hardening of modules</li>
-<li>Low-level development on Linux and embedded systems</li>
+<li>C/C++ development on Linux and embedded systems</li>
 </ul>
 
 ### Co-Founder, Thregence Academy (<i style='font-size: 0.8em;'>Mar 2020 - Nov 2021</i>):
 <ul markdown='1'>
-<li>Web Penetration Testing</li>
-<li>Network Penetration Testing</li>
-<li>Hacking Tools and Techniques</li>
-<li>Computer Networks</li>
-<li>Information Technology</li>
+<li>Web Penetration Testing videos and articles</li>
+<li>Network Penetration Testing videos and articles</li>
+<li>Hacking Tools and Techniques videos and articles</li>
+<li>Computer Networks videos and articles</li>
+<li>Information Technology videos and articles</li>
 </ul>
 
-### Network & Security Engineer, Telecommunication Company of Iran - TCI (<i style='font-size: 0.8em;'>Apr 2020 - Aug 2020</i>):
+### Researcher, Formal Security Lab. (<i style='font-size: 0.8em;'>2022 - Present</i>):
 <ul markdown='1'>
-<li>Configuration of network devices</li>
-<li>Configuration of virtualization infrastructures</li>
-<li>Development of security tools</li>
-<li>Reverse engineering</li>
-<li>Fundamental digital forensics</li>
+<li>Researched New techniques and methods of vulnerability detection</li>
+<li>Research on applications of artificial intelligence in vulnerability detection</li>
+<li>Coached newcomers to the lab to determine their field of study</li>
+<li>Authored a general guideline for entering the software testing field</li>
+<li>Studied advanced techniques of software testing</li>
+<li>Researched on security aspects of software testing</li>
+<li>Researched various types of threats and attacks</li>
+<li>Developed Fuzzers for vulnerability detection</li>
 </ul>
 
-### Monitoring & NOC Engineer, XICOMM (<i style='font-size: 0.8em;'>Jan 2019 - Mar 2020</i>):
+### Software Engineer, Telecommunication Company of Iran - TCI (<i style='font-size: 0.8em;'>Apr 2020 - Aug 2020</i>):
+<ul markdown='1'>
+<li>Configuration of Network Devices</li>
+<li>Configuration of Virtualization Infrastructures</li>
+<li>Development of Security Tools</li>
+<li>Reverse Engineering</li>
+<li>Fundamental Digital Forensics</li>
+</ul>
+
+### Teaching Assistant, Amirkabir University of Technology (<i style='font-size: 0.8em;'>2022 - Present</i>):
+<ul markdown='1'>
+<li>Program Analysis (Graduate)</li>
+<li>Formal Methods for Information Security (Graduate)</li>
+</ul>
+
+### Monitoring & NOC Engineer, XICOMM LLC. (<i style='font-size: 0.8em;'>Jan 2019 - Mar 2020</i>):
 <ul markdown='1'>
 <li>Network Monitoring</li>
-<li>VoIP routers monitoring</li>
-<li>VoIP route testing</li>
+<li>Monitoring and configuration of VoIP infrastructure</li>
+<li>Debugging VoIP call transmission</li>
 </ul>
 
-### Computer Network Intern, Telecommunication Infrastructure Company (<i style='font-size: 0.8em;'>Jun 2016 - Sep 2016</i>):
+### Teaching Assistant, Qom University of Technology (<i style='font-size: 0.8em;'>2022 - Present</i>):
+<ul markdown='1'>
+<li>Operating Systems (Undergraduate)</li>
+<li>Computer Networks (Undergraduate)</li>
+</ul>
+
+### Intern, Telecommunication Infrastructure Company (<i style='font-size: 0.8em;'>Jun 2016 - Sep 2016</i>):
 <ul markdown='1'>
 <li>Fully practical internship in field of computer networks and security</li>
 <li>Under supervision of highly skilled network specialists</li>
