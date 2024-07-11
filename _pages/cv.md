@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Last update: May 2019
+Last update: June 2024
 - CV [[pdf](/files/Kabiri-CV.pdf)]
 
 ### Transcripts
