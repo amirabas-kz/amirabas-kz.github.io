@@ -6,10 +6,8 @@ author_profile: true
 ---
 
 Last update: May 2019
-- Short CV [[pdf](/files/Ahmadpanah-Short-CV.pdf)]
-- Long CV [[pdf](/files/Ahmadpanah-CV.pdf)]
+- CV [[pdf](/files/Kabiri-CV.pdf)]
 
-### Transcripts (at Tehran Polytechnic)
-- PhD [[pdf](/files/Ph.D.Transcript-en.pdf)]
+### Transcripts
 - MSc [[pdf](/files/M.Sc.Transcript-en.pdf)]
 - BSc [[pdf](/files/B.Sc.Transcript-en.pdf)]
