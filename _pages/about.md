@@ -49,10 +49,10 @@ function toggle_visibility(id) {
 
 <a id="publications" class='header-color'>Publications</a>
 ----
-0. 1.	Kabiri, A. Chapnevis, " BotNet Intrusion Detection System in Internet of Things with Developed Deep Learning," The 22nd International Conference on Information Technology, Computer and Telecommunication (ITCTCONF), 2022 [[pdf](papers/botnet.pdf)]
+1.	Kabiri, A. Chapnevis, " BotNet Intrusion Detection System in Internet of Things with Developed Deep Learning," The 22nd International Conference on Information Technology, Computer and Telecommunication (ITCTCONF), 2022 [[pdf](papers/botnet.pdf)]
 {: reversed="reversed"}
 
-1. 1.	Deep-Markove Learning Model for Consensus Scaled Optimization in MultiAgend Systems for DDoS Attack Detection [[pdf](papers/Deep.pdf)] 
+2.	Deep-Markove Learning Model for Consensus Scaled Optimization in MultiAgend Systems for DDoS Attack Detection [[pdf](papers/Deep.pdf)] 
 <br>Supervisor: Amirahmad Chapnevis
 {: reversed="reversed"}
 
