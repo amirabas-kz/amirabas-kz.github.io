@@ -27,9 +27,6 @@ areas. I am proficient in English, including reading, writing, and speaking. Iâ€
     <li> Software Testing</li>
     <li> Binary Analysis</li>
     <li> Reverse Engineering</li>
-    <li> Machine Learning</li>
-    <li> IoT and Embedded Systems</li>
-    <li> Deep Learning</li>
     </ul>
 
 <p id="fullname" style="display: none;"><sup>#
