@@ -16,7 +16,7 @@ redirect_from:
 
 **Hi!** This is Amir<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, 
 I hold a Master's degree in Software Engineering from the Amirkabir University of Technology, a top university in Iran. 
-With over five years of work experience in major Iranian and American companies, I have developed a robust software and 
+With over five years of work experience in notable enterprise companies, I have developed a robust software and 
 security background. My research and professional experience have equipped me with proficiency in research methodologies 
 and tools in the software field. I am particularly interested in cybersecurity, especially in specialized areas such as 
 binary analysis, reverse engineering, and software testing. I am also keenly interested in artificial intelligence, 
